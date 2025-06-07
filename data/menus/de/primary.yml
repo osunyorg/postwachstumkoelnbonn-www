@@ -8,11 +8,18 @@ items:
   children: []
   path: "/pages/uber-uns"
   file: content/de/pages/uber-uns/_index.html
-- title: 'About post-growth/degrowth '
+- title: Über Postwachstum / Degrowth
   target: "/de/uber-postwachstum-degrowth/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/uber-postwachstum-degrowth"
   file: content/de/pages/uber-postwachstum-degrowth/_index.html
+- title: Get involved
+  target: "/de/mitmachen/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/mitmachen"
+  file: content/de/pages/mitmachen/_index.html
 
