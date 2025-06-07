@@ -8,20 +8,6 @@ items:
   children: []
   path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
-- title: About Us
-  target: "/en/about-us/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/about-us"
-  file: content/en/pages/about-us/_index.html
-- title: 'About post-growth/degrowth '
-  target: "/en/about-post-growthdegrowth/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/about-post-growthdegrowth"
-  file: content/en/pages/about-post-growthdegrowth/_index.html
 - title: 'About post-growth/degrowth '
   target: "/en/about-post-growthdegrowth/"
   kind: page
@@ -36,11 +22,3 @@ items:
   children: []
   path: "/pages/get-involved"
   file: content/en/pages/get-involved/_index.html
-- title: Get involved
-  target: "/en/get-involved/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/get-involved"
-  file: content/en/pages/get-involved/_index.html
-
