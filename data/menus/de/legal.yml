@@ -1,13 +1,6 @@
 ---
 title: Legal
 items:
-- title: Accessibilité
-  target: "/de/accessibilite/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/accessibilite"
-  file: content/de/pages/accessibilite/_index.html
 - title: Plan du site
   target: "/de/plan-du-site/"
   kind: page
@@ -29,4 +22,11 @@ items:
   children: []
   path: "/pages/politique-de-confidentialite"
   file: content/de/pages/politique-de-confidentialite/_index.html
+- title: Accessibilité
+  target: "/de/accessibilite/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/accessibilite"
+  file: content/de/pages/accessibilite/_index.html
 
