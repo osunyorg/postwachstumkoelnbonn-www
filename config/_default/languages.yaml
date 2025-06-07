@@ -32,3 +32,35 @@ en:
     researcher: researchers
     teacher: teachers
     volume: volumes
+de:
+  title: >-
+    Postwachstum Köln Bonn
+  contentDir: content/de
+  languageCode: de
+  languageName: Deutsch
+  buildFuture: true
+  params:
+    contact_details:
+
+  permalinks:
+    events: /agenda/:year/:slug/
+    exhibitions: /expositions/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
+    pages_categories: /:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    posts_categories: /actualites/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    diploma: diplomas
+    events_category: events_categories
+    location: locations
+    organizations_category: organizations_categories
+    pages_category: pages_categories
+    persons_category: persons_categories
+    posts_category: posts_categories
+    programs_category: programs_categories
+    projects_category: projects_categories
+    researcher: researchers
+    teacher: teachers
+    volume: volumes
