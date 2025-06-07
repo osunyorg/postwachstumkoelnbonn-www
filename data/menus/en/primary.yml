@@ -1,34 +1,6 @@
 ---
 title: Main menu
 items:
-- title: About Us
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/en/events/_index.html
-- title: 'About post-growth/degrowth '
-  target: "/exhibitions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/exhibitions"
-  file: content/en/exhibitions/_index.html
-- title: Posts
-  target: "/posts/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/en/posts/_index.html
-- title: Get involved
-  target: "/organizations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/en/organizations/_index.html
 - title: Team
   target: "/team/"
   kind: page
@@ -36,4 +8,11 @@ items:
   children: []
   path: "/persons"
   file: content/en/persons/_index.html
+- title: About Us
+  target: "/about-us/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/about-us"
+  file: content/en/pages/about-us/_index.html
 
