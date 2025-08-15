@@ -35,6 +35,12 @@ en:
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            postwachstumkoelnbonn
+          value: >-
+            https://instagram.com/postwachstumkoelnbonn
 
   taxonomies:
     administrator: administrators
