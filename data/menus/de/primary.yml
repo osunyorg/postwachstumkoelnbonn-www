@@ -1,6 +1,13 @@
 ---
 title: Main menu
 items:
+- title: Aktuelles
+  target: "/de/news/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/de/posts/_index.html
 - title: Über uns
   target: "/de/uber-uns/"
   kind: page
