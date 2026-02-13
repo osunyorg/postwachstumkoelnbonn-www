@@ -2,31 +2,39 @@
 title: Main menu
 items:
 - title: Aktuelles
+  slug: aktuelles
   target: "/de/news/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/de/posts/_index.html
 - title: Über uns
+  slug: uber-uns
   target: "/de/uber-uns/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/uber-uns"
   file: content/de/pages/uber-uns/_index.html
 - title: Über Postwachstum / Degrowth
+  slug: uber-postwachstum-degrowth
   target: "/de/uber-postwachstum-degrowth/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/uber-postwachstum-degrowth"
   file: content/de/pages/uber-postwachstum-degrowth/_index.html
 - title: Get involved
+  slug: get-involved
   target: "/de/mitmachen/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/mitmachen"
   file: content/de/pages/mitmachen/_index.html
 

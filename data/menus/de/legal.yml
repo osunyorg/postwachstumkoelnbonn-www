@@ -2,17 +2,21 @@
 title: Legal
 items:
 - title: Plan du site
+  slug: plan-du-site
   target: "/de/plan-du-site/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/plan-du-site"
   file: content/de/pages/plan-du-site/_index.html
 - title: Mentions légales
+  slug: mentions-legales
   target: "/de/mentions-legales/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/de/pages/mentions-legales/_index.html
 

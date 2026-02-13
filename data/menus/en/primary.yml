@@ -2,38 +2,48 @@
 title: Main menu
 items:
 - title: News
+  slug: news
   target: "/en/news/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: About Us
+  slug: about-us
   target: "/en/about-us/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
 - title: 'About post-growth/degrowth '
+  slug: about-post-growth-degrowth
   target: "/en/about-post-growthdegrowth/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/about-post-growthdegrowth"
   file: content/en/pages/about-post-growthdegrowth/_index.html
 - title: Get involved
+  slug: get-involved
   target: "/en/get-involved/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/get-involved"
   file: content/en/pages/get-involved/_index.html
 - title: Agenda
+  slug: agenda
   target: "/en/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/en/events/_index.html
 
