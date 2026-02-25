@@ -41,6 +41,12 @@ en:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            postwachstumkoelnbonn@posteo.de
+          value: >-
+            mailto:postwachstumkoelnbonn@posteo.de
       social_networks:
         instagram:
           label: >-
