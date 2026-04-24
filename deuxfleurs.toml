@@ -15,98 +15,98 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/de/equipe-editoriale/index.html"
+from = "/de/equipe-editoriale/"
 to = "/de/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/sitemap/index.html"
+from = "/sitemap/"
 to = "/en/sitemap/"
 
 [[redirects]]
-from = "/privacy-policy/index.html"
+from = "/privacy-policy/"
 to = "/en/privacy-policy/"
 
 [[redirects]]
-from = "/en/posts/index.html"
+from = "/en/posts/"
 to = "/en/news/"
 
 [[redirects]]
-from = "/de/actualites/index.html"
+from = "/de/actualites/"
 to = "/de/news/"
 
 [[redirects]]
-from = "/legal-terms/index.html"
+from = "/legal-terms/"
 to = "/en/legal-terms/"
 
 [[redirects]]
-from = "/accessibility/index.html"
+from = "/accessibility/"
 to = "/en/accessibility/"
 
 [[redirects]]
-from = "/de/uber-uns-1/index.html"
+from = "/de/uber-uns-1/"
 to = "/de/uber-uns/"
 
 [[redirects]]
-from = "/posts/2025-06-06-website-launched/index.html"
+from = "/posts/2025-06-06-website-launched/"
 to = "/en/news/2025-06-06-website-launched/"
 
 [[redirects]]
-from = "/team/index.html"
+from = "/team/"
 to = "/en/team/"
 
 [[redirects]]
-from = "/about-us/index.html"
+from = "/about-us/"
 to = "/en/about-us/"
 
 [[redirects]]
-from = "/en/news/2026-01-17-reclaim-the-economy-workshop-1/index.html"
+from = "/en/news/2026-01-17-reclaim-the-economy-workshop-1/"
 to = "/en/news/2026-02-28-reclaim-the-economy-workshop-1/"
 
 [[redirects]]
-from = "/en/news/2025-11-29-film-screenings-2025/index.html"
+from = "/en/news/2025-11-29-film-screenings-2025/"
 to = "/en/news/2025-10-28-film-screenings-2025/"
 
 [[redirects]]
-from = "/exhibitions/exhibitions-archives/index.html"
+from = "/exhibitions/exhibitions-archives/"
 to = "/en/exhibitions/exhibitions-archives/"
 
 [[redirects]]
-from = "/en/exhibitions-archives/index.html"
+from = "/en/exhibitions-archives/"
 to = "/en/exhibitions/exhibitions-archives/"
 
 [[redirects]]
-from = "/agenda/index.html"
+from = "/agenda/"
 to = "/en/agenda/"
 
 [[redirects]]
-from = "/en/editors/index.html"
+from = "/en/editors/"
 to = "/en/team/editors/"
 
 [[redirects]]
-from = "/de/archives-expositions/index.html"
+from = "/de/archives-expositions/"
 to = "/de/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/get-involved/index.html"
+from = "/get-involved/"
 to = "/en/get-involved/"
 
 [[redirects]]
-from = "/about-post-growthdegrowth/index.html"
+from = "/about-post-growthdegrowth/"
 to = "/en/about-post-growthdegrowth/"
 
 [[redirects]]
-from = "/organizations/index.html"
+from = "/organizations/"
 to = "/en/organizations/"
 
 [[redirects]]
-from = "/posts/index.html"
+from = "/posts/"
 to = "/en/news/"
 
 [[redirects]]
-from = "/team/editors/index.html"
+from = "/team/editors/"
 to = "/en/team/editors/"
 
 [[redirects]]
-from = "/exhibitions/index.html"
+from = "/exhibitions/"
 to = "/en/exhibitions/"
 
