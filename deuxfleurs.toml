@@ -13,3 +13,100 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/de/equipe-editoriale/index.html"
+to = "/de/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/sitemap/index.html"
+to = "/en/sitemap/"
+
+[[redirects]]
+from = "/privacy-policy/index.html"
+to = "/en/privacy-policy/"
+
+[[redirects]]
+from = "/en/posts/index.html"
+to = "/en/news/"
+
+[[redirects]]
+from = "/de/actualites/index.html"
+to = "/de/news/"
+
+[[redirects]]
+from = "/legal-terms/index.html"
+to = "/en/legal-terms/"
+
+[[redirects]]
+from = "/accessibility/index.html"
+to = "/en/accessibility/"
+
+[[redirects]]
+from = "/de/uber-uns-1/index.html"
+to = "/de/uber-uns/"
+
+[[redirects]]
+from = "/posts/2025-06-06-website-launched/index.html"
+to = "/en/news/2025-06-06-website-launched/"
+
+[[redirects]]
+from = "/team/index.html"
+to = "/en/team/"
+
+[[redirects]]
+from = "/about-us/index.html"
+to = "/en/about-us/"
+
+[[redirects]]
+from = "/en/news/2026-01-17-reclaim-the-economy-workshop-1/index.html"
+to = "/en/news/2026-02-28-reclaim-the-economy-workshop-1/"
+
+[[redirects]]
+from = "/en/news/2025-11-29-film-screenings-2025/index.html"
+to = "/en/news/2025-10-28-film-screenings-2025/"
+
+[[redirects]]
+from = "/exhibitions/exhibitions-archives/index.html"
+to = "/en/exhibitions/exhibitions-archives/"
+
+[[redirects]]
+from = "/en/exhibitions-archives/index.html"
+to = "/en/exhibitions/exhibitions-archives/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/en/agenda/"
+
+[[redirects]]
+from = "/en/editors/index.html"
+to = "/en/team/editors/"
+
+[[redirects]]
+from = "/de/archives-expositions/index.html"
+to = "/de/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/get-involved/index.html"
+to = "/en/get-involved/"
+
+[[redirects]]
+from = "/about-post-growthdegrowth/index.html"
+to = "/en/about-post-growthdegrowth/"
+
+[[redirects]]
+from = "/organizations/index.html"
+to = "/en/organizations/"
+
+[[redirects]]
+from = "/posts/index.html"
+to = "/en/news/"
+
+[[redirects]]
+from = "/team/editors/index.html"
+to = "/en/team/editors/"
+
+[[redirects]]
+from = "/exhibitions/index.html"
+to = "/en/exhibitions/"
+
