@@ -4,8 +4,8 @@ de:
   title: >-
     Postwachstum Köln Bonn
   contentDir: content/de
-  languageCode: de
-  languageName: Deutsch
+  locale: de
+  label: Deutsch
   buildFuture: true
   params:
     contact_details:
@@ -42,8 +42,8 @@ en:
   title: >-
     Postwachstum Köln Bonn
   contentDir: content/en
-  languageCode: en
-  languageName: English
+  locale: en
+  label: English
   buildFuture: true
   params:
     contact_details:
