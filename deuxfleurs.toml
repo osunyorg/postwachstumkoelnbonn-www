@@ -43,6 +43,10 @@ from = "/accessibility/index.html"
 to = "/en/accessibility/"
 
 [[redirects]]
+from = "/en/ruth-strange/index.html"
+to = "/en/team/ruth-strange/"
+
+[[redirects]]
 from = "/de/uber-uns-1/index.html"
 to = "/de/uber-uns/"
 
@@ -85,6 +89,10 @@ to = "/en/team/editors/"
 [[redirects]]
 from = "/de/archives-expositions/index.html"
 to = "/de/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/en/ruth-strange/news/index.html"
+to = "/en/team/ruth-strange/news/"
 
 [[redirects]]
 from = "/get-involved/index.html"
